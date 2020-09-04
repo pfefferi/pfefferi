@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Welcome to my GitHub profile. I'm Lisandro Scarrone a self-taught developer from Argentina :argentina: 
+Welcome to my GitHub profile. I'm Lisandro Scarrone, a self-taught developer from Argentina :argentina: 
 
 [Portfolio](https://pfefferi.github.io/)
 

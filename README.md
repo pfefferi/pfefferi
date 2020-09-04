@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+
+Welcome to my GitHub profile. I'm Lisandro Scarrone a self-taught developer from Argentina :argentina: 
+
+[Portfolio](https://pfefferi.github.io/)
+
 
 <!--
 **pfefferi/pfefferi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
